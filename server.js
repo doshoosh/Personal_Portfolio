@@ -1,8 +1,10 @@
-#!/usr/bin/env node
+#!/usr/bin/env.node
 
 /**
  * Module dependencies.
  */
+
+// server.js, Mohammed Hsjo, 301155309, and 2020/10/14
 
 var app = require('./app');
 var debug = require('debug')('the-express-generator:server');
